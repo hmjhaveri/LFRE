@@ -1,4 +1,4 @@
-%% Byzantine-Resilient Distributed Observers for LTI Systems (Mitra et. al., 2019)
+%% Byzantine-Resilient Distributed Observers for LTI Systems (Mitra et. al., 2018)
 % Originally Implemented in MATLAB: April 2022
 
 % The follow sections implement the simulation results first published in
