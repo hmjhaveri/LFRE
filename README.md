@@ -1,5 +1,5 @@
 # Local-Filtering based Resilient Estimation (LFRE)
-Authors: Harsh Jhaveri (hjhaveri at umich dot edu), Rahul Srinivasan
+Authors: Harsh Jhaveri (hjhaveri at umich dot edu), Rahul Srinivasan (rahulsri@umich.edu)
 
 MATLAB Implementation of the Local-Filtering based Resilient Estimation (LFRE) Algorithm published by Mitra et. al. (2018), ["Byzantine-Resilient Distributed Observers for LTI systems."](https://arxiv.org/abs/1802.09651)
 
