@@ -1,7 +1,7 @@
-# LFRE
-Authors: Harsh Jhaveri (hjhaveri at umich dot edu), Rahul Srinivasan
+# Local-Filtering based Resilient Estimation (LFRE)
+Authors: Harsh Jhaveri (hjhaveri at umich dot edu), Rahul Srinivasan (rahulsri at umich dot edu)
 
-MATLAB Implementation of the Local-Filtering based Resilient Estimation (LFRE) Algorithm published by Mitra et. al. (2019), "Byzantine-resilient distributed observers for LTI systems."
+MATLAB Implementation of the Local-Filtering based Resilient Estimation (LFRE) Algorithm published by Mitra et. al. (2018), ["Byzantine-Resilient Distributed Observers for LTI systems."](https://arxiv.org/abs/1802.09651)
 
 ## Replication of Published Simulation Results
 The published results are implemented and replicated in `LFRE_driver.m`. This file also contains the main documentation for the data structures uses to define the graph topology. This structure is used in all examples, but only defined in detail in this file. Example files are documented in the following sections. For utility functions, see the specific `.m` files for detailed documentation and comments.
