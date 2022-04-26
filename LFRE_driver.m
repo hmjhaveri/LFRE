@@ -10,6 +10,7 @@
 
 %% Graph Structure
 % Build Graph using Adjacency Matrix and Layers Matrix
+clear;
 
 % Adjacency Matrix
 % Each row represents a node, and values of 1 represent in-neighbors.

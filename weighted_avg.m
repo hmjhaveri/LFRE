@@ -76,5 +76,5 @@ function [x_truth, x_hat_all, error] = weighted_avg(adj, layers, byz, A, li, x0,
     end % t_max reached
     
     % Compute error
-    error = x_hat_all - repmat(x_truth, length(adj), 1);
+    error = abs(x_hat_all - repmat(x_truth, length(adj), 1));
 end

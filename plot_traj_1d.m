@@ -37,7 +37,6 @@ function [] = plot_traj_1d(x_hat_all, error, byz)
     end
    
     legend(legendStrings, 'location', 'NorthEastOutside');
-    xlabel('k');
-    ylabel('Error');
-    title('Error vs. k')
+    xlabel('$k$','Interpreter','latex');
+    ylabel('$e_i[k], i \in V$','Interpreter','latex')
 end

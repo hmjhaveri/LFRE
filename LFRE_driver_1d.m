@@ -158,7 +158,7 @@ layers = [1 2 3 4 5;
 % Node 1, Constant output of 0.01
 % Node 3, Constant output of 0.5
 % Node 8, Constant output of 1
-byz = [1 3 8; 0.01 0.5 1];
+byz = [1 5 8; 0.01 0.5 1];
 
 % Build Simulation Environment
 A = 2;
